@@ -8,5 +8,7 @@ namespace InterfaceDocumentos
 {
     public class Class1
     {
+        string teste = "novo";
+        string novo = "teste";
     }
 }
